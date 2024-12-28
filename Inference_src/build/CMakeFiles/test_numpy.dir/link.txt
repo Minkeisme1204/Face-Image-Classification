@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/test_numpy.dir/test/numpy_test.c.o  -o test_numpy  libnumpy.a 

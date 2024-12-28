@@ -1,0 +1,12 @@
+DATASET:
+  PATH:
+    RAW_PATH: '/home/minkescanor/Desktop/WORKPLACE/Hust/AI/Object_Detection/Training_src/data/face'
+    TARGET_PATH: '/home/minkescanor/Desktop/WORKPLACE/Hust/AI/Object_Detection/dataset'
+
+TRAINING: 
+  EPOCH: 75
+  BATCH_SIZE: 64
+  LEARNING_RATE: 0.001
+  MODEL_SAVE_PATH: 
+  LOG_PATH: 
+  MOMENTUM: 0.99

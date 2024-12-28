@@ -1,0 +1,8 @@
+/home/minkescanor/Desktop/WORKPLACE/Hust/AI/Object_Detection/Inference_src/build/CMakeFiles/rebuild_cache.dir
+/home/minkescanor/Desktop/WORKPLACE/Hust/AI/Object_Detection/Inference_src/build/CMakeFiles/test_conv.dir
+/home/minkescanor/Desktop/WORKPLACE/Hust/AI/Object_Detection/Inference_src/build/CMakeFiles/test_numpy.dir
+/home/minkescanor/Desktop/WORKPLACE/Hust/AI/Object_Detection/Inference_src/build/CMakeFiles/convolution.dir
+/home/minkescanor/Desktop/WORKPLACE/Hust/AI/Object_Detection/Inference_src/build/CMakeFiles/edit_cache.dir
+/home/minkescanor/Desktop/WORKPLACE/Hust/AI/Object_Detection/Inference_src/build/CMakeFiles/test.dir
+/home/minkescanor/Desktop/WORKPLACE/Hust/AI/Object_Detection/Inference_src/build/CMakeFiles/activation.dir
+/home/minkescanor/Desktop/WORKPLACE/Hust/AI/Object_Detection/Inference_src/build/CMakeFiles/numpy.dir

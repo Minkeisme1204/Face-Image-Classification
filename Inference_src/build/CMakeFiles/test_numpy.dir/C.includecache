@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/numpy.h
+stdint.h
+-
+stdlib.h
+-
+stdio.h
+-
+
+/home/minkescanor/Desktop/WORKPLACE/Hust/AI/Object_Detection/Inference_src/test/numpy_test.c
+numpy.h
+/home/minkescanor/Desktop/WORKPLACE/Hust/AI/Object_Detection/Inference_src/test/numpy.h
+

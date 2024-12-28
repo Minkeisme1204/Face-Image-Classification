@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/test_conv.dir/test/conv_test.c.o  -o test_conv  libconvolution.a -lm libactivation.a -lm libnumpy.a 

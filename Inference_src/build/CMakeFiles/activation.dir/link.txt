@@ -1,0 +1,2 @@
+/usr/bin/ar qc libactivation.a  CMakeFiles/activation.dir/src/activation.c.o
+/usr/bin/ranlib libactivation.a

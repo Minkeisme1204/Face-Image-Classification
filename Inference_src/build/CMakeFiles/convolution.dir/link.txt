@@ -1,0 +1,2 @@
+/usr/bin/ar qc libconvolution.a  CMakeFiles/convolution.dir/src/convolution.c.o
+/usr/bin/ranlib libconvolution.a

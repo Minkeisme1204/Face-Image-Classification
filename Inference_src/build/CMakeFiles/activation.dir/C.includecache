@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/activation.h
+stdint.h
+-
+stdlib.h
+-
+stdio.h
+-
+math.h
+-
+numpy.h
+../include/numpy.h
+
+../include/numpy.h
+stdint.h
+-
+stdlib.h
+-
+stdio.h
+-
+
+/home/minkescanor/Desktop/WORKPLACE/Hust/AI/Object_Detection/Inference_src/src/activation.c
+activation.h
+/home/minkescanor/Desktop/WORKPLACE/Hust/AI/Object_Detection/Inference_src/src/activation.h
+

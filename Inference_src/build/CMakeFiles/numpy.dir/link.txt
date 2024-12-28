@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnumpy.a  CMakeFiles/numpy.dir/src/numpy.c.o
+/usr/bin/ranlib libnumpy.a
